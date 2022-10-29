@@ -1,7 +1,8 @@
 # QingYu-Translate
 
-- uniapp-vue: uniapp代码
+- uniapp-vue: uniapp代码，在手机app显示结果
 - show： nodejs代码，做本地服务器
+- get_img： pyQt代码，截图，翻译，保存图片
 ## 使用：
 1. 开放电脑8080端口（推荐）或关闭防火墙（不推荐）
 2. 进入show文件夹，终端输入`node app.js`
