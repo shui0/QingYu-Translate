@@ -10,6 +10,6 @@
 4. 打开手机app,输入电脑ipv4地址,点击start开始使用
 
 ## 要求：
-nodejs版本 >= 16.0.0
-uniapp版本 >= 3.6.0
-python版本 >= 3.10.0
+- nodejs版本 >= 16.0.0
+- uniapp版本 >= 3.6.0
+- python版本 >= 3.10.0
