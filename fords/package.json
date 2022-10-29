@@ -1,0 +1,18 @@
+{
+  "name": "fords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@qiun/ucharts": "^2.4.3-20220505",
+    "@qiun/vue-ucharts": "^2.4.3-20220505",
+    "axios": "^1.1.2",
+    "pinia": "^2.0.23",
+    "v-charts": "^1.19.0"
+  }
+}
