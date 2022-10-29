@@ -1,0 +1,4 @@
+requests~=2.25.1
+pyqt5~=5.15.4
+opencv-python~=4.6.0.66
+numpy~=1.20.1
