@@ -51,7 +51,7 @@
 
 
 ## 开发者
-||python|web|
+||深度学习|web|
 | ----------- | ----------- | ----------- |
  |开发者:|shui0 |supercpq |
  |profile:|[github(shui0)](https://github.com/shui0)| [github(supercpq)](https://github.com/supercpq)|
