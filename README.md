@@ -54,6 +54,6 @@
 - 开发者:shui0 supercpq
 - [github(shui0)](https://github.com/shui0) [github(supercpq)](https://github.com/supercpq)
 - qq:2156856355 2962285639
-- blog:[shui0.top](shui0.top)
+- blog:[shui0.top](shui0.top) [掘金](https://juejin.cn/user/3171425354782893/posts)
 
 - 待补充
