@@ -51,6 +51,8 @@
 
 
 ## 开发者
+||||
+| ----------- | ----------- | | ----------- |
  |开发者:|shui0 |supercpq |
  |profile:|[github(shui0)](https://github.com/shui0)| [github(supercpq)](https://github.com/supercpq)|
  |qq:|2156856355| 2962285639|
