@@ -17,7 +17,7 @@
  ``pip install -r requirements.txt``
 
 (移动端)
-1. 安装app
+1. 安装[app](http://43.138.202.7:8888/down/oodHiCLDu5Kl)
 
 
 ## 运行程序：
